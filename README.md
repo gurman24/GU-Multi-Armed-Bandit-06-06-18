@@ -1,6 +1,6 @@
-##### Multi-Armed Bandit #####
+## Multi-Armed Bandit ##
 
-In this project, we will examine the well-know concept of Multi-Armed Bandit. 
+In this project, we will examine the classic reinforcement learning problem known as the Multi-Armed Bandit. It is also known as  ## K-armed bandit problem ## or ## N-armed bandit problem ## 
 
 
 
