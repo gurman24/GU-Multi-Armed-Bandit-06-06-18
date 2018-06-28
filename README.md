@@ -24,13 +24,15 @@ In the case of my project -- see the Jupyter Notebook file for additional inform
 In each experiment, the distribition of the data, for example means of 1.0, 2.0, and 3.0, was defined. Try to envision the Bell Curve in each case. The Original Means distribution was 1.0, 3.0, and 5.0. The Means Further Apart distribution had the means of 1.0, 3.0, and 5.0. The Means Closer Together distribution was 1.0, 1.5, and 2.0. In each case, the goal was to run the different Agents, graph the data, and see if the Agents all converged towards a single Bandit (a single mean). For example:  
 
 
-
+![graph and explanation bandit 06-27-18](https://user-images.githubusercontent.com/22970879/42009969-da698d08-7a49-11e8-938d-8ae9803feea3.png)
 
 (the above graph is derived from my own data)
 
 For further information on this topic, feel free to look at Anson Wong's blog [5]. This blog provides an accurate and different phrasing in explaining the concept of Multi-Armed Bandit. In general, feel free to Google this topic on your own as well!!!
 
+...
 
+...
 
 ## Conclusion and/or Takeaway Points: ##
 
@@ -55,5 +57,3 @@ For further information on this topic, feel free to look at Anson Wong's blog [5
 4 = https://en.wikipedia.org/wiki/Reinforcement_learning
 
 5 = https://towardsdatascience.com/solving-the-multi-armed-bandit-problem-b72de40db97c
-
-
